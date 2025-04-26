@@ -4,9 +4,9 @@
 
 ## 📁 Project Overview
 
-This project explores long-term HIV treatment outcomes by analyzing key clinical and demographic factors. We focus on understanding how adherence to antiretroviral therapy (ART), the presence of opportunistic infections, and changes in CD4 count and viral load are influenced by treatment regimens, patient demographics, and clinical stage.
+- This project explores long-term HIV treatment outcomes by analyzing key clinical and demographic factors. We focus on understanding how adherence to antiretroviral therapy (ART), the presence of opportunistic infections, and changes in CD4 count and viral load are influenced by treatment regimens, patient demographics, and clinical stage.
 
-Using machine learning models and regression techniques, we predict treatment outcomes and clinical metrics, with an emphasis on improving accuracy through ensemble stacking. Our approach not only offers predictive insights but also contributes to optimizing HIV treatment strategies and patient care.
+- Using machine learning models and regression techniques, we predict treatment outcomes and clinical metrics, with an emphasis on improving accuracy through ensemble stacking. Our approach not only offers predictive insights but also contributes to optimizing HIV treatment strategies and patient care.
 
 ## 📌 Objectives
 
